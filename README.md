@@ -30,7 +30,6 @@ After that restart Squid Proxy server by running the following command:
 
 ```
 systemctl restart squid
-
 ```
 
 # Creating a new user
